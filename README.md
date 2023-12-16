@@ -1,3 +1,37 @@
+CYCLE 1
+-------
+1. You are given two arrays sorted in ascending order. Write a C Program to merge the
+
+elements of the two arrays and to form a single array sorted in ascending order.
+
+2. Given a string s, write a C program to find the length of the longest substring without
+
+repeating characters. Also, display the substring.
+
+3. Write a program to find the smallest number in a list of integers using pointers.
+   
+4. Implement the following string library functions using pointers:
+
+  4.1. string length (int StringLengh (char *s))
+  
+  4.2. string copy (void StringCopy(char *s1, char *s2) )
+  
+  4.3. string comparison (int StringCompare (char *s1, char *s2))
+  
+  4.4. string concatenation (void StringConcat(char *s1, char *s2) )
+
+5. Implement bubble sort without using array (Use pointers instead)
+
+CYCLE 2
+-------
+1. Implement Linear Search.
+
+2. Implement Binary Search.
+
+3. Implement Stack using array.
+
+4. Write a program in C to check whether a string is palindrome or not, using stack.
+
 CYCLE 3
 -------
 1. Using stack, convert an infix expression to a postfix expression and evaluate the
