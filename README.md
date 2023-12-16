@@ -1,3 +1,5 @@
+CYCLE 3
+-------
 1. Using stack, convert an infix expression to a postfix expression and evaluate the
 
 postfix expression.
@@ -36,13 +38,16 @@ b. Delete elements from the queue (both front and rear)
 
 c. Display the contents of the queue after each operation
 
-7. Write a program to read two polynomials and store them in an array. Calculate the sum
+CYCLE 4
+-------
+
+1. Write a program to read two polynomials and store them in an array. Calculate the sum
 
 of the two polynomials and display the first polynomial, second polynomial and the
 
 resultant polynomial.
 
-8. Write a program to enter two matrices in normal form. Write a function to convert two
+2. Write a program to enter two matrices in normal form. Write a function to convert two
 
 matrices to tuple form and display it. Also, find the transpose of the two matrices
 
@@ -50,7 +55,10 @@ represented in tuple form and display it. Find the sum of the two matrices in tu
 
 display the sum in tuple form.
 
-9.Write a menu driven program for performing the following operations on a linked list
+CYCLE 5
+-------
+
+1.Write a menu driven program for performing the following operations on a linked list
 
 1. Display
 
@@ -62,11 +70,11 @@ display the sum in tuple form.
 
 5. Delete from end
 
-10. Create a doubly linked list from a string taking each character from the string. Check if the
+2. Create a doubly linked list from a string taking each character from the string. Check if the
 
 string is palindrome in a efficient method.
 
-11. Implement a stack using linked list with the operations:
+3. Implement a stack using linked list with the operations:
 
 1. Push
 
@@ -74,7 +82,7 @@ string is palindrome in a efficient method.
 
 3. Display the contents of the stack
 
-12. Implement a queue using linked lists with the following operations
+4. Implement a queue using linked lists with the following operations
 
 1. Enqueue
 
@@ -82,21 +90,21 @@ string is palindrome in a efficient method.
 
 3. Display the contents of the queue
 
-13. Write a program to reverese the contents of a queue using stack
+5. Write a program to reverese the contents of a queue using stack
 
-14. Write a program to read two polynomials and store them using linked list. Calculate the
+6. Write a program to read two polynomials and store them using linked list. Calculate the
 
 sum of the two polynomials and display the first polynomial, second polynomial and the
 
 resultant polynomial.
 
-15. Write a program to read two polynomials and store them using linked list. Calculate the
+7. Write a program to read two polynomials and store them using linked list. Calculate the
 
 product of the two polynomials and display the first polynomial, second polynomial and the
 
 resultant polynomial.
 
-16. Write a program for addition of polynomials containing two variables using linked list. The
+8. Write a program for addition of polynomials containing two variables using linked list. The
 
 terms of the polynomials are ordered by the power of the first variable and then the
 
@@ -104,7 +112,7 @@ second variable, in the descending order. Eg: 4.x^3.y^1 + 2.x^2.y^3 +
 
 5.x^1.y^2+7.y^2+7.y^1+5
 
-17. The details of students (number, name and total mark) are to be stored in a linked list.
+9. The details of students (number, name and total mark) are to be stored in a linked list.
 
 Write functions for the following operations.
 
