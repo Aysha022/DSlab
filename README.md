@@ -12,13 +12,13 @@ repeating characters. Also, display the substring.
    
 4. Implement the following string library functions using pointers:
 
-  4.1. string length (int StringLengh (char *s))
+    4.1. string length (int StringLengh (char *s))
   
-  4.2. string copy (void StringCopy(char *s1, char *s2) )
+    4.2. string copy (void StringCopy(char *s1, char *s2) )
   
-  4.3. string comparison (int StringCompare (char *s1, char *s2))
+    4.3. string comparison (int StringCompare (char *s1, char *s2))
   
-  4.4. string concatenation (void StringConcat(char *s1, char *s2) )
+    4.4. string concatenation (void StringConcat(char *s1, char *s2) )
 
 5. Implement bubble sort without using array (Use pointers instead)
 
