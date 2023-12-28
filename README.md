@@ -160,4 +160,35 @@ Write functions for the following operations.
 
 5. Display
 
+CYCLE 6
+-------
+
+1.Create a binary tree with the following operations.
+
+1. Insert a new node
+
+2. Inorder traversal
+
+3. Preorder traversal
+
+4. Postorder traversal
+
+2.Write a program to create a binary search tree (data items are integers) with the following
+
+operations.
+
+1. Insert a new node
+
+2. Inorder traversal
+
+3. Preorder traversal
+
+4. Postorder traversal
+
+5. Delete a node
+
+6. Find the number of leaf nodes
+
+7. Sort the input numbers
+
 
